@@ -1,2 +1,4 @@
-# forum
-Discussions about Kanboard
+Kanboard Forum
+==============
+
+Use GitHub issues for discussions and questions.
